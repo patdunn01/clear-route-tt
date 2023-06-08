@@ -1,0 +1,14 @@
+name,phone,email
+Macey Bernard,(0118) 830 5233,arcu.iaculis.enim@outlook.edu
+Otto Hunter,0908 260 7332,aliquam.tincidunt@hotmail.ca
+Leandra Haynes, St.",0800 225832
+Wynter Patterson,0845 46 44,diam@outlook.net
+Hanna Gutierrez, 3626 Sed Rd.",076 5500 7871
+Michael Dale,(0171) 316 0361,magnis.dis@icloud.ca
+Daquan Casey,0800 881 5557,erat@outlook.edu
+Joan Lindsey,056 6272 0263,enim.gravida@protonmail.net
+Sophia Herring,0815 842 7458,molestie.tellus.aenean@icloud.net
+Yasir Willis, St.",(013801) 50256
+Marah Henry,0800 1111,bibendum.donec@yahoo.org
+Ebony Stokes, Street",07624 169575
+Caldwell Stafford,0831 876 2711,mauris.ut@hotmail.net
